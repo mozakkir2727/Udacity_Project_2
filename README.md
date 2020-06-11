@@ -1,21 +1,13 @@
 # Udacity_Project_2
-NLP_Text Mining_With _R
+NLP_Text Mining_With _Python
 ## INTRODUCTION 
 Sentiment is an attitude, thought, or judgment prompted  by  feeling. Sentiment analysis , which is also known as opinion mining, studies people’s sentiments towards certain entities. Internet is a resourceful place with respect to sentiment information. From a user’s perspective, people are able to post their own content through various social media, such as forums, micro-blogs,  or online  social networking sites. From a researcher’s perspective, many social media sites  release their application programming interfaces (APIs), prompting data collection and analysis by researchers and developers. For instance, Twitter currently has three different versions of APIs available , namely the REST API, the Search API, and the Streaming API. With the REST API, developers  are able  to gather  status  data and user information; the Search API allows developers to query specific Twitter content, whereas  the  Streaming API is  able  to  collect  Twitter  content in real time. Moreover, developers can mix those APIs  to  create  their  own applications. Hence, sentiment analysis seems having a strong fundament with the support of massive online data. 
 ## PREREQUISITES
 There are some general library requirements for the project and some which are specific to individual methods. The general requirements are as follows.
-library(rJava)
-library(tm)		
-library(SnowballC)
-library(wordcloud)
-library(RWeka)	
-library(qdap)		
-library(textir)
-library(maptpx)
-library(data.table)
-library(stringr)
-library(slam)
-library(ggplot2)
+* "Numpy"
+* " Pandas"
+* "matplotlib.pyplot"
+* "statsmodels.formula.api"
 ## Making positive wordcloud function
 matching positive words
 ## Making Negative wordcloud function
