@@ -22,10 +22,10 @@ The system we designed is used to determine the opinion of the people  based  on
 Also we are currently analyzing only 25 live tweets. This may  not give  proper value and results. The results are not much accurate.
 ## Future Enhancement
 
-•	Analyzing sentiments on emo/smiley.
-•	Determining neutrality.
-•	Potential improvement can be made to our data collection and analysis method.
-•	Future research can be done with  possible  improvement  such  as  more refined data and more accurate algorithm.
+1. Analyzing sentiments on emo/smiley.
+2. Determining neutrality.
+3. Potential improvement can be made to our data collection and analysis method.
+4. Future research can be done with  possible  improvement  such  as  more refined data and more accurate algorithm.
 ## CONCLUSION
 
 We have completed our project using python as language, Php with Html and Javascript for output presentation. Although there was a problem in integration of python and php, through numbers of tutorial we were able to integrate it.
